@@ -1,3 +1,8 @@
+### (自补充说明)
+20201224 forked from lizj3624/https-github.com-mogutt-TTServer
+在阅读文章 http://www.52im.net/thread-447-1-1.html
+时看到这是 TeamTalk开源之初的版本。fork作备份，方便后续阅读学习。
+
 ###简介：
 
 TeamTalk是一套开源的企业办公即时通讯软件，作为整套系统的组成部分之一，TTServer为TeamTalk 客户端提供用户登录，消息转发及存储等基础服务。
